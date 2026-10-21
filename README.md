@@ -22,6 +22,28 @@ Drag & drop, transfers, treatment and crafting retain the game's interactions.
 The redesign applies to the tactical screen and the windows it hosts. No vanilla
 texture, font or XUI style is replaced.
 
+## Screenshots
+
+### Inventory
+
+![Inventory and equipment](docs/screenshots/inventory.png)
+
+### Character
+
+![Character and skills](docs/screenshots/character.png)
+
+### Health
+
+![Health and medical supplies](docs/screenshots/health.png)
+
+### Crafting
+
+![Crafting and recipe requirements](docs/screenshots/crafting.png)
+
+### Map
+
+![World map](docs/screenshots/map.png)
+
 ## Installation
 
 **Manual release ZIP:** extract its `N26_UIOverhaul` folder into your user
