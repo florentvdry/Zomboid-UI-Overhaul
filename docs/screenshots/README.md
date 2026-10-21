@@ -2,10 +2,10 @@
 
 The project README displays these in-game captures:
 
-- `inventory.png`: inventory and equipment.
-- `character.png`: character and skills.
-- `health.png`: health and medical supplies.
-- `crafting.png`: crafting and recipe requirements.
-- `map.png`: world map.
+- `inventory-2026-10-22.png`: inventory and equipment.
+- `character-2026-10-22.png`: character and skills.
+- `health-2026-10-22.png`: health and medical supplies.
+- `crafting-2026-10-22.png`: crafting and recipe requirements.
+- `map-2026-10-22.png`: world map.
 
-Keep the same filenames when replacing the images so the README links remain valid.
+When replacing screenshots, use new filenames and update the README links so image caches refresh.

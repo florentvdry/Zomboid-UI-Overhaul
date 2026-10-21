@@ -28,23 +28,23 @@ texture, font or XUI style is replaced.
 
 ### Inventory
 
-![Inventory and equipment](docs/screenshots/inventory.png)
+![Inventory and equipment](docs/screenshots/inventory-2026-10-22.png)
 
 ### Character
 
-![Character and skills](docs/screenshots/character.png)
+![Character and skills](docs/screenshots/character-2026-10-22.png)
 
 ### Health
 
-![Health and medical supplies](docs/screenshots/health.png)
+![Health and medical supplies](docs/screenshots/health-2026-10-22.png)
 
 ### Crafting
 
-![Crafting and recipe requirements](docs/screenshots/crafting.png)
+![Crafting and recipe requirements](docs/screenshots/crafting-2026-10-22.png)
 
 ### Map
 
-![World map](docs/screenshots/map.png)
+![World map](docs/screenshots/map-2026-10-22.png)
 
 ## Installation
 
