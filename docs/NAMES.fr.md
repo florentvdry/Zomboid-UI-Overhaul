@@ -1,7 +1,6 @@
 # Nom public et identité
 
 Nom choisi par l’auteur le 21 octobre 2026 : **Zomboid UI Overhaul**.
-Signature : **by N26**.
 
 Le nom annonce la refonte de l’interface de Project Zomboid et couvre les cinq
 onglets sans réduire le mod à l’inventaire ou à une orientation tactique.

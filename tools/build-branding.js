@@ -32,8 +32,6 @@ function draw(size, file) {
     g.fillStyle = i ? '#E8A33D' : '#E8EAE6';
     g.fillText(line, 32, 116 + i * 47);
   }
-  g.fillStyle = '#C9CEC6'; g.font = '12px N26BrandSmall';
-  g.fillText('by N26', 32, 192);
   g.fillStyle = '#C9CEC6'; g.font = '10px N26BrandSmall';
   g.fillText(`V${version}  /  BUILD ${build}+`, 24, 218);
   g.fillStyle = '#8E948B'; g.font = '9px N26BrandSmall';

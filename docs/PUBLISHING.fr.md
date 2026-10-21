@@ -8,7 +8,7 @@ l’auteur pour son code et ses créations propres.
 
 1. Relancer le jeu, contrôler les derniers correctifs et remplacer les captures
    selon [le guide](screenshots/README.md).
-2. Le nom final et la signature sont documentés dans [l’identité du mod](NAMES.fr.md).
+2. Le nom final est documenté dans [l’identité du mod](NAMES.fr.md).
 3. Après les envois, ajouter les vraies URL GitHub/Workshop au README et à la
    description Steam. Aucun identifiant de publication n’est inventé.
 
