@@ -20,6 +20,3 @@ The screen preserves native transfers, treatment and crafting interactions.
 
 Potential conflicts: mods replacing the same inventory, health, skills, crafting
 or map UI. Multiplayer compatibility has not been broadly verified.
-
-Publishing note: replace the previous development screenshots after checking
-the final display fixes in game. This text is a draft until that review is done.

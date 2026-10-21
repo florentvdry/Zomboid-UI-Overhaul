@@ -55,8 +55,6 @@ been established.
 - Treatment uses the native body-part context menu. The care supplies column
   summarizes available items; it does not apply treatment automatically.
 - Close the screen before quitting to avoid saving docked inventory sizes.
-- The author reported all five tabs working in game. Final display fixes passed
-  26 focused automated tests; a fresh in-game check and new screenshots are pending.
 
 ## Français
 
@@ -67,16 +65,10 @@ Build **42.21 minimum**, clavier et souris. Les transferts, soins et fabrication
 utilisent les interactions du jeu. Les autres mods qui remplacent les mêmes
 fenêtres peuvent entrer en conflit.
 
-## Development and publication
+## Development
 
 - [Development setup and checks](docs/DEVELOPMENT.md)
-- [Publication GitHub / Workshop (français)](docs/PUBLISHING.fr.md)
-- [Changelog](CHANGELOG.md) · [Release notes](publishing/RELEASE_NOTES.md)
-- [Public name and identity](docs/NAMES.fr.md) · [Screenshot guide](docs/screenshots/README.md)
-
-The public version starts at **1.0.0**; the earlier 2.1.x labels were development
-versions. The public name is **Zomboid UI Overhaul**, by **N26**; the internal
-mod ID remains `N26_UIOverhaul`.
+- [Changelog](CHANGELOG.md)
 
 ## License
 
