@@ -1,0 +1,10 @@
+name=Zomboid UI Overhaul
+id=N26_UIOverhaul
+author=florentvandroy
+modversion=1.0.0
+versionMin=42.21
+poster=poster.png
+icon=icon.png
+description=A full-screen tactical screen opened with Tab, in the spirit of Escape from Tarkov: Character, Inventory, Health, Crafting and Map tabs in one view, with a 3D equipment paper doll, a health summary and the nearby loot side by side.
+description=
+description=Client-side only, no gameplay change. The game's own windows are hosted as they are; nothing else in the interface is restyled. Can be switched off in Options > Mods.

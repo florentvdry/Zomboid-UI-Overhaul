@@ -1,0 +1,460 @@
+{
+  "UI_N26_Options_Title": [
+    "Zomboid UI Overhaul",
+    "Zomboid UI Overhaul"
+  ],
+  "UI_N26_Options_Desc": [
+    "Full-screen tactical screen opened with Tab. Custom character and crafting pages, integrated world map and health view.",
+    "Écran tactique plein écran ouvert avec Tab. Pages Personnage et Fabrication personnalisées, carte du monde intégrée et vue Santé."
+  ],
+  "UI_N26_Options_Section_Style": [
+    "Style",
+    "Style"
+  ],
+  "UI_N26_Opt_Accent": [
+    "Accent colour",
+    "Couleur d'accentuation"
+  ],
+  "UI_N26_Opt_Accent_Tip": [
+    "Colour of highlights, selections and primary buttons.",
+    "Couleur des surlignages, sélections et boutons principaux."
+  ],
+  "UI_N26_Opt_Opacity": [
+    "Panel opacity",
+    "Opacité des panneaux"
+  ],
+  "UI_N26_Opt_Opacity_Tip": [
+    "How much the world shows through windows.",
+    "Transparence des fenêtres sur le monde."
+  ],
+  "UI_N26_Accent_Amber": [
+    "Amber",
+    "Ambre"
+  ],
+  "UI_N26_Accent_Green": [
+    "Field green",
+    "Vert terrain"
+  ],
+  "UI_N26_Accent_Cyan": [
+    "Cyan",
+    "Cyan"
+  ],
+  "UI_N26_Accent_Red": [
+    "Signal red",
+    "Rouge signal"
+  ],
+  "UI_N26_Accent_Violet": [
+    "Violet",
+    "Violet"
+  ],
+  "UI_N26_Accent_Bone": [
+    "Bone",
+    "Os"
+  ],
+  "UI_N26_Mod_Inventory": [
+    "Tactical screen: inventory redesign",
+    "Écran tactique : refonte de l’inventaire"
+  ],
+  "UI_N26_Mod_Hub": [
+    "Tactical screen (Tab)",
+    "Écran tactique (Tab)"
+  ],
+  "UI_N26_Mod_Hub_Tip": [
+    "One full-screen view with tabs (Character, Inventory, Health, Crafting, Map) instead of separate windows. Tab opens it; the game keys for health, skills and crafting open their tab.",
+    "Un seul écran plein écran à onglets (Personnage, Inventaire, Santé, Fabrication, Carte) au lieu de fenêtres séparées. Tab l'ouvre ; les touches du jeu pour la santé, les compétences et la fabrication ouvrent leur onglet."
+  ],
+  "UI_N26_Hub_Character": [
+    "Character",
+    "Personnage"
+  ],
+  "UI_N26_Hub_Inventory": [
+    "Inventory",
+    "Inventaire"
+  ],
+  "UI_N26_Hub_Health": [
+    "Health",
+    "Santé"
+  ],
+  "UI_N26_Hub_Crafting": [
+    "Crafting",
+    "Fabrication"
+  ],
+  "UI_N26_Hub_Map": [
+    "Map",
+    "Carte"
+  ],
+  "UI_N26_Hub_Close": [
+    "Close",
+    "Fermer"
+  ],
+  "UI_N26_Key_Escape": [
+    "Esc",
+    "Échap"
+  ],
+  "UI_N26_Hub_Day": [
+    "Day %1",
+    "Jour %1"
+  ],
+  "UI_N26_Hub_Equipment": [
+    "Equipment",
+    "Équipement"
+  ],
+  "UI_N26_Hub_NoInjury": [
+    "No injury",
+    "Aucune blessure"
+  ],
+  "UI_N26_Hub_OpenHealth": [
+    "Open health",
+    "Ouvrir la santé"
+  ],
+  "UI_N26_Hub_Actions": [
+    "In progress",
+    "En cours"
+  ],
+  "UI_N26_Hub_NoAction": [
+    "No action queued",
+    "Aucune action en attente"
+  ],
+  "UI_N26_Hub_Craft": [
+    "Crafting",
+    "Fabrication"
+  ],
+  "UI_N26_Hub_Build": [
+    "Building",
+    "Construction"
+  ],
+  "UI_N26_Hub_Survived": [
+    "Survived",
+    "Survie"
+  ],
+  "UI_N26_Hub_Kills": [
+    "Zombies killed",
+    "Zombies tués"
+  ],
+  "UI_N26_Hub_BodyWeight": [
+    "Body weight",
+    "Poids"
+  ],
+  "UI_N26_Hub_Traits": [
+    "Traits",
+    "Traits"
+  ],
+  "UI_N26_Hub_Cond_Bleeding": [
+    "Bleeding",
+    "Saignement"
+  ],
+  "UI_N26_Hub_Cond_Bitten": [
+    "Bite",
+    "Morsure"
+  ],
+  "UI_N26_Hub_Cond_Fracture": [
+    "Fracture",
+    "Fracture"
+  ],
+  "UI_N26_Hub_Cond_Deep": [
+    "Deep wound",
+    "Plaie profonde"
+  ],
+  "UI_N26_Hub_Cond_Bullet": [
+    "Bullet lodged",
+    "Balle logée"
+  ],
+  "UI_N26_Hub_Cond_Burn": [
+    "Burn",
+    "Brûlure"
+  ],
+  "UI_N26_Hub_Cond_Cut": [
+    "Laceration",
+    "Coupure"
+  ],
+  "UI_N26_Hub_Cond_Scratch": [
+    "Scratch",
+    "Égratignure"
+  ],
+  "UI_N26_Hub_Cond_Bandaged": [
+    "bandaged",
+    "pansé"
+  ],
+  "UI_N26_Slot_Head": [
+    "Head",
+    "Tête"
+  ],
+  "UI_N26_Slot_Neck": [
+    "Neck",
+    "Cou"
+  ],
+  "UI_N26_Slot_Torso": [
+    "Torso",
+    "Torse"
+  ],
+  "UI_N26_Slot_Rig": [
+    "Vest",
+    "Gilet"
+  ],
+  "UI_N26_Slot_Accessories": [
+    "Accessories",
+    "Accessoires"
+  ],
+  "UI_N26_Slot_Primary": [
+    "Main hand",
+    "Main droite"
+  ],
+  "UI_N26_Slot_Secondary": [
+    "Off hand",
+    "Main gauche"
+  ],
+  "UI_N26_Slot_Back": [
+    "Back",
+    "Dos"
+  ],
+  "UI_N26_Slot_Belt": [
+    "Belt",
+    "Ceinture"
+  ],
+  "UI_N26_Slot_Hands": [
+    "Gloves",
+    "Gants"
+  ],
+  "UI_N26_Slot_Legs": [
+    "Legs",
+    "Jambes"
+  ],
+  "UI_N26_Slot_Feet": [
+    "Feet",
+    "Pieds"
+  ],
+  "UI_N26_Slot_TwoHands": [
+    "2 hands",
+    "2 mains"
+  ],
+  "UI_N26_Hint_RightClick": [
+    "Right click",
+    "Clic droit"
+  ],
+  "UI_N26_Hint_Actions": [
+    "Actions",
+    "Actions"
+  ],
+  "UI_N26_Hint_Drag": [
+    "Drag",
+    "Glisser"
+  ],
+  "UI_N26_Hint_Transfer": [
+    "Move / wear",
+    "Déplacer / enfiler"
+  ],
+  "UI_N26_Hint_DoubleClick": [
+    "Double click",
+    "Double-clic"
+  ],
+  "UI_N26_Hint_Unequip": [
+    "Take off",
+    "Retirer"
+  ],
+  "UI_N26_Act_Transfer": [
+    "Transfer",
+    "Transfert"
+  ],
+  "UI_N26_Act_Wear": [
+    "Put on",
+    "Enfiler"
+  ],
+  "UI_N26_Act_Unequip": [
+    "Take off",
+    "Retirer"
+  ],
+  "UI_N26_Act_Equip": [
+    "Equip",
+    "Équiper"
+  ],
+  "UI_N26_Act_Eat": [
+    "Eat",
+    "Manger"
+  ],
+  "UI_N26_Act_Drink": [
+    "Drink",
+    "Boire"
+  ],
+  "UI_N26_Act_Read": [
+    "Read",
+    "Lire"
+  ],
+  "UI_N26_Act_Bandage": [
+    "Bandage",
+    "Pansement"
+  ],
+  "UI_N26_Act_Walk": [
+    "Walk",
+    "Déplacement"
+  ],
+  "UI_N26_Act_Grab": [
+    "Pick up",
+    "Ramasser"
+  ],
+  "UI_N26_Act_Drop": [
+    "Drop",
+    "Déposer"
+  ],
+  "UI_N26_Act_Craft": [
+    "Craft",
+    "Fabrication"
+  ],
+  "UI_N26_Hub_Hunger": [
+    "Hunger",
+    "Faim"
+  ],
+  "UI_N26_Hub_Thirst": [
+    "Thirst",
+    "Soif"
+  ],
+  "UI_N26_Hub_Fatigue": [
+    "Fatigue",
+    "Fatigue"
+  ],
+  "UI_N26_Hub_Endurance": [
+    "Endurance",
+    "Endurance"
+  ],
+  "UI_N26_Care_Title": [
+    "Care supplies",
+    "Soins disponibles"
+  ],
+  "UI_N26_Care_Mine": [
+    "On me",
+    "Sur moi"
+  ],
+  "UI_N26_Care_Near": [
+    "Nearby",
+    "Proximité"
+  ],
+  "UI_N26_Care_Bandage": [
+    "Bandages",
+    "Pansements"
+  ],
+  "UI_N26_Care_Disinfect": [
+    "Disinfectant",
+    "Désinfectant"
+  ],
+  "UI_N26_Care_Suture": [
+    "Needle & thread",
+    "Aiguille et fil"
+  ],
+  "UI_N26_Care_Splint": [
+    "Splints",
+    "Attelles"
+  ],
+  "UI_N26_Care_Tweezers": [
+    "Tweezers",
+    "Pince à épiler"
+  ],
+  "UI_N26_Care_Pills": [
+    "Medication",
+    "Médicaments"
+  ],
+  "UI_N26_Care_Hint": [
+    "Right-click a body part to treat it with these.",
+    "Clic droit sur une zone du corps pour la soigner avec ce matériel."
+  ],
+  "UI_N26_Mod_Character": [
+    "Tactical screen: skills redesign",
+    "Écran tactique : refonte des compétences"
+  ],
+  "UI_N26_Mod_Character_Tip": [
+    "Skill groups, level pips and character info in the character tab.",
+    "Groupes de compétences, pastilles de niveau et infos du personnage dans l’onglet Personnage."
+  ],
+  "UI_N26_Mod_Crafting": [
+    "Tactical screen: crafting redesign",
+    "Écran tactique : refonte de la fabrication"
+  ],
+  "UI_N26_Mod_Crafting_Tip": [
+    "Recipe list, categories, recipe card and ingredients in the crafting tab. Workbench windows outside the tactical screen stay vanilla.",
+    "Liste de recettes, catégories, fiche recette et ingrédients dans l’onglet Fabrication. Les fenêtres d’établi hors écran tactique restent d’origine."
+  ],
+  "UI_N26_Mod_Health": [
+    "Tactical screen: health redesign",
+    "Écran tactique : refonte de la santé"
+  ],
+  "UI_N26_Mod_Health_Tip": [
+    "3D body view with zones and wound cards in the health tab. Takes effect after restarting the game.",
+    "Vue du corps en 3D avec zones et cartes de blessures dans l’onglet Santé. Prise en compte après redémarrage du jeu."
+  ],
+  "UI_N26_Health_Pain": [
+    "Pain",
+    "Douleur"
+  ],
+  "UI_N26_Health_Wet": [
+    "Wetness",
+    "Humidité"
+  ],
+  "UI_N26_Health_Endurance": [
+    "Exhaustion",
+    "Épuisement"
+  ],
+  "UI_N26_Health_Cold": [
+    "Cold",
+    "Froid"
+  ],
+  "UI_N26_Health_Hot": [
+    "Heat",
+    "Chaleur"
+  ],
+  "UI_N26_Health_Injuries": [
+    "Injuries",
+    "Blessures"
+  ],
+  "UI_N26_Health_NoInjury": [
+    "No injury",
+    "Aucune blessure"
+  ],
+  "UI_N26_Mod_Inventory_Tip": [
+    "Capacity gauge, search, taller rows and container tiles in the inventory and loot columns.",
+    "Jauge de capacité, recherche, lignes plus hautes et tuiles de conteneurs dans les colonnes inventaire et proximité."
+  ],
+  "UI_N26_Inv_Search": [
+    "Search items",
+    "Rechercher un objet"
+  ],
+  "UI_N26_Mod_Skin": [
+    "Tactical screen: window style",
+    "Écran tactique : style des fenêtres"
+  ],
+  "UI_N26_Mod_Skin_Tip": [
+    "Frames, buttons, tabs, lists and fields of the game windows shown in the tactical screen. Other windows are never changed.",
+    "Cadres, boutons, onglets, listes et champs des fenêtres du jeu affichées dans l’écran tactique. Les autres fenêtres ne sont jamais modifiées."
+  ],
+  "UI_N26_Mod_Menus": [
+    "Tactical screen: context menus and tooltips",
+    "Écran tactique : menus clic droit et infobulles"
+  ],
+  "UI_N26_Mod_Menus_Tip": [
+    "Only while the tactical screen is open.",
+    "Seulement pendant que l’écran tactique est ouvert."
+  ],
+  "UI_N26_Char_Craft": ["Crafting", "Artisanat"],
+  "UI_N26_Char_Survival": ["Survival", "Survie"],
+  "UI_N26_Char_Combat": ["Combat", "Combat"],
+  "UI_N26_Char_Physical": ["Physical", "Physique"],
+  "UI_N26_Char_Next": ["Next level", "Prochain niveau"],
+  "UI_N26_Char_Max": ["Maximum level", "Niveau maximum"],
+  "UI_N26_Char_Boost": ["Experience rate:", "Gain d’expérience :"],
+  "UI_N26_Char_Book": ["Reading bonus:", "Bonus de lecture :"],
+  "UI_N26_Char_Practice": ["Practice this skill to earn experience.", "Pratique cette compétence pour gagner de l’expérience."],
+  "UI_N26_Char_Hair": ["Hair", "Coiffure"],
+  "UI_N26_Char_Read": ["Readings", "Lectures"],
+  "UI_N26_Craft_Tool": ["Tool", "Outil"],
+  "UI_N26_Craft_Kept": ["Kept", "Conservé"],
+  "UI_N26_Craft_Ready": ["Craftable", "Faisable"],
+  "UI_N26_Craft_Max": ["MAX", "MAX"],
+  "UI_N26_Craft_Place": ["Place in the world", "Placer dans le monde"],
+  "UI_N26_Craft_OnlyReady": ["Craftable only", "Faisables uniquement"],
+  "UI_N26_Map_Unavailable": ["The world map is disabled in this game.", "La carte du monde est désactivée dans cette partie."],
+  "UI_N26_Opt_Animations": [
+    "Animations",
+    "Animations"
+  ],
+  "UI_N26_Opt_Animations_Tip": [
+    "Smooth bars, compass and transitions.",
+    "Barres, boussole et transitions fluides."
+  ]
+}

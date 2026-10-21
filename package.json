@@ -1,0 +1,23 @@
+{
+  "name": "zomboid-ui-overhaul",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Development and release tools for the Zomboid UI Overhaul Project Zomboid mod",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "i18n": "node tools/build-i18n.js",
+    "branding": "node tools/build-branding.js",
+    "lint": "node tests/harness/lint.js",
+    "test": "node tests/harness/run.js",
+    "test:hub": "node tests/harness/run.js hub",
+    "check:release": "node tools/package-release.js --check",
+    "release": "node tools/package-release.js"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "fengari": "0.1.5",
+    "fflate": "0.8.2",
+    "luaparse": "0.3.1"
+  }
+}
