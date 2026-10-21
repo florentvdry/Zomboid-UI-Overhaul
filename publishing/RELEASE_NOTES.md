@@ -12,6 +12,7 @@ The screen preserves native transfers, treatment and crafting interactions.
 
 ## Downloads
 
+- [Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3824243701).
 - `N26_UIOverhaul-1.0.0.zip`: manual installation. Extract `N26_UIOverhaul`
   into your user `Zomboid/mods` folder.
 - `N26_UIOverhaul-source-1.0.0.zip`: source, documentation and development tools.

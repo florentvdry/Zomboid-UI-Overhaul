@@ -4,13 +4,14 @@ Le projet utilise **1.0.0**. Le nom retenu est **Zomboid UI Overhaul** ;
 l’identifiant technique reste `N26_UIOverhaul`. La licence MIT a été choisie par
 l’auteur pour son code et ses créations propres.
 
+- [Dépôt GitHub](https://github.com/florentvdry/Zomboid-UI-Overhaul)
+- [Fiche Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3824243701)
+
 ## Derniers éléments éditoriaux
 
 1. Relancer le jeu, contrôler les derniers correctifs et remplacer les captures
    selon [le guide](screenshots/README.md).
 2. Le nom final est documenté dans [l’identité du mod](NAMES.fr.md).
-3. Après les envois, ajouter les vraies URL GitHub/Workshop au README et à la
-   description Steam. Aucun identifiant de publication n’est inventé.
 
 ## Préparer les archives
 

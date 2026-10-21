@@ -2,6 +2,8 @@
 
 **V1.0.0 · Project Zomboid Build 42.21+ · Mouse & keyboard · English / Français**
 
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3824243701)
+
 Your survivor, inventory, health, crafting and world map in one tactical screen.
 Press **Tab** to open it. The world stays visible and keeps running, except when
 the native world map pauses a solo game.
@@ -53,8 +55,8 @@ and `N26_UIOverhaul/common/`. Enable it in **Mods**, then restart the game.
 **GitHub source ZIP:** rename its top folder `N26_UIOverhaul` if needed and place
 it in the same directory. The prebuilt release ZIP is simpler for players.
 
-**Steam Workshop:** a listing is being prepared; no public Workshop URL has been
-assigned yet. Once published, subscribe, enable the mod and restart the game.
+**Steam Workshop:** [subscribe to Zomboid UI Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3824243701),
+enable the mod and restart the game.
 
 **Mod ID:** `N26_UIOverhaul`. In co-op/MP, the server must include it in its mod
 list so clients retain it when joining. Broad multiplayer compatibility has not

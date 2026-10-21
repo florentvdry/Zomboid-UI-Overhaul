@@ -2,6 +2,8 @@
 
 Requires Project Zomboid Build 42.21 or later. Mod ID: `N26_UIOverhaul`.
 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3824243701)
+
 ## English
 
 Extract the `N26_UIOverhaul` folder into your user `Zomboid/mods` directory.
